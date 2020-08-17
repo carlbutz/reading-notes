@@ -26,4 +26,4 @@ There have been a number of markdown examples from above:
 - [x] Introduce yourself and the GitHub portfolio page
 
 # Markdown Information
-[Click here to learn more about markdown]()
+[Click here to learn more about markdown](/discussion-1.md)
