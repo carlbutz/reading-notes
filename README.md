@@ -17,10 +17,10 @@ There have been a number of markdown examples from above:
 5. and the check box list found below this list
 
 # Assignment To-Do-List
-- [ ] Create Githib site
-- [ ] Have a README.md file to work in
-- [ ] Create main page that
-  - [ ] Explain "Growth Mindset"
-  - [ ] Include three reminders about "Growth Mindset"
-- [ ]  Have at least 5 markdowns
-- [ ] Introduce yourself and the GitHub portfolio page
+- [x] Create Githib site
+- [x] Have a README.md file to work in
+- [x] Create main page that
+  - [x] Explain "Growth Mindset"
+  - [x] Include three reminders about "Growth Mindset"
+- [x]  Have at least 5 markdowns
+- [x] Introduce yourself and the GitHub portfolio page
