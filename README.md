@@ -24,3 +24,6 @@ There have been a number of markdown examples from above:
   - [x] Include three reminders about "Growth Mindset"
 - [x]  Have at least 5 markdowns
 - [x] Introduce yourself and the GitHub portfolio page
+
+# Markdown Information
+[Click here to learn more about markdown]()
