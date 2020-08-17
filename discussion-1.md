@@ -10,6 +10,7 @@ Option | HTML | Markdown
 Table Header | < table > < th> | Enter the items seperated by the pipe symbol, then underline with the hyphen
 Table Row | < tr > < /tr > | Enter the rows with the pipe symbol
 
+
 There are a couple of good resources you can use to find more about the syntax:
 - [GitHub Syntax](https://guides.github.com/features/mastering-markdown/)
 - [More GitHub syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
