@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 Class reading notes
 
 **Growth Mindsets:**
