@@ -27,4 +27,4 @@ There have been a number of markdown examples from above:
 
 # Markdown Information
 [Click here to learn more about markdown](/discussion-1.md)
-[Click here to learn about Terminals and Command Line Interfaces (cli)](/discussion-02.md0
+[Click here to learn about Terminals and Command Line Interfaces (cli)](/discussion-02.md)
