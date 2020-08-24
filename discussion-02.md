@@ -10,3 +10,12 @@ A terminal is a piece of software that allows a user to interact with a computer
 
 Because there is no pictures to remind you what you were doing, you have to know commands in order to tell the computer what to do. Here are some common commands
 
+Command | What it does
+------- | ------------
+pwd | Print Working Directory, tells the user where they are in their directory structure
+ls | List, shows the contents of a directory
+cd | Change Directory, changes the active directory from your current directory to a new one
+
+Important things to remember when working in a terminal
+- File names should not have spaces in them. They should either use a dash or use what is called Camel Case or camelCase.
+- Many terminals, including Linux, are case sensative. So, be careful how you enter text
