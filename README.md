@@ -26,9 +26,9 @@ There have been a number of markdown examples from above:
 - [x] Introduce yourself and the GitHub portfolio page
 
 # Markdown Information
-[Click here to learn more about markdown](/discussion-1.md)
-[Click here to learn about Terminals and Command Line Interfaces (cli)](/discussion-02.md)
-[CLick here to learn about how to clone a github repo](/discussion-03.md)
+[Click here to learn more about markdown](/discussion-1.md)<br>
+[Click here to learn about Terminals and Command Line Interfaces (cli)](/discussion-02.md)<br>
+[Click here to learn about how to clone a github repo](/discussion-03.md)
 
 New lines for Mod 3
 **This is a blue line of words**
