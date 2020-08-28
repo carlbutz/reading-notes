@@ -17,7 +17,7 @@ Now your repo is on your local machine. Typing git status will show the current 
 Other important commands:
 
 Command | what it does
-------- | ------------
+--- | ---
 code . | opens the VS editor
 git add <file> | sets the edited file ready to be commited to github
 git checkout -- <file> | removes the file from the commit staging area
