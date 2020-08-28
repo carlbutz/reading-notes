@@ -23,3 +23,5 @@ git add <file> | sets the edited file ready to be commited to github
 git checkout -- <file> | removes the file from the commit staging area
 git commit -m '_message_' | commits the file with the message as comments on what took place with the file
 git push origin master | commits the file to github
+
+More to come later
