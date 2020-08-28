@@ -16,22 +16,8 @@ Now your repo is on your local machine. Typing git status will show the current 
 
 Other important commands:
 
-Command | what it does
---- | ---
-code . | opens the VS editor
-git add <file> | sets the edited file ready to be commited to github
-git checkout -- <file> | removes the file from the commit staging area
-git commit -m '_message_' | commits the file with the message as comments on what took place with the file
-git push origin master | commits the file to github
-
-More to come later
-
-test | table
---- | ---
-code . | opens the VS ediitor
-git add <file> | sets the edited file ready to be commited to github
-row 3 | data
-row 4 | data
-row 5 | data
-
-
+> code . => opens the VS editor
+> git add <file> => sets the edited file ready to be commited to github
+> git checkout -- <file> => removes the file from the commit staging area
+> git commit -m '_message_' => commits the file with the message as comments on what took place with the file
+> git push origin master => commits the file to github
