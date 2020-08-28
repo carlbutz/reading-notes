@@ -25,3 +25,10 @@ git commit -m '_message_' | commits the file with the message as comments on wha
 git push origin master | commits the file to github
 
 More to come later
+
+test | table
+--- | ---
+row 1 | data
+row 2 | data
+
+
