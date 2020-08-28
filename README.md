@@ -28,3 +28,21 @@ There have been a number of markdown examples from above:
 # Markdown Information
 [Click here to learn more about markdown](/discussion-1.md)
 [Click here to learn about Terminals and Command Line Interfaces (cli)](/discussion-02.md)
+
+New lines for Mod 3
+**This is a blue line of words**
+_this is in italics_
+
+# h1
+## h2
+### h3
+#### h4
+
+- this is a cool thing
+
+[] check here.
+
+> this is words.
+```js
+var variable = new Pet();
+```
