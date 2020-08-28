@@ -19,3 +19,5 @@ cd | Change Directory, changes the active directory from your current directory 
 Important things to remember when working in a terminal
 - File names should not have spaces in them. They should either use a dash or use what is called Camel Case or camelCase.
 - Many terminals, including Linux, are case sensative. So, be careful how you enter text
+
+[Back to README](README.md)
