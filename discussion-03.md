@@ -28,7 +28,7 @@ More to come later
 
 test | table
 --- | ---
-row 1 | data
+code . | opens the VS ediitor
 row 2 | data
 
 
