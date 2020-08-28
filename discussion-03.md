@@ -29,6 +29,9 @@ More to come later
 test | table
 --- | ---
 code . | opens the VS ediitor
-row 2 | data
+git add <file> | sets the edited file ready to be commited to github
+row 3 | data
+row 4 | data
+row 5 | data
 
 
