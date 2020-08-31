@@ -54,3 +54,25 @@ Now that we have the who, the why, the look we need to be able to get visitors f
 4. **Have Context** - Remind the visitor not only where they are going, but where they currently are in the site
 5. **Be Interactive** - Have the links big enough to click on, and have some sort of indication the link is being hovered over and being clicked
 6. **Be Consistent** - Try to keep the navigation as simiar from page to page. There may be minor differences, but the majority should be matching.
+
+# Skiming Chapter 1
+I took the Code 101 class, so just skimmed this chapter. The big take away is you need _tags_ to make a web site to look the way you want it to. Typically the are starting and ending tags. A starting tag will look something like this < body > (spaces added so it did not code). An end tag will look something like this < /body >(spaces added so it did not code). 
+
+# Summary of Chapter 17
+Chapter 17 talks about tags that are used to layout the basic structure of an HTML 5 page. This has changed with HTML 5 not needing to use the div tag as often. These tags will need an open tag <> and a close tag</>. When discussing these tags below, I will be using the key word only and not the tag markers, this is for simplicty as I am not trying to design a page.
+
+Tag | What it does
+--- | ---
+header | Can be used as part of the overall body of the site, or inside an article or section. This will be used at the top of each page/article/section, and will make the areas look uniform. Logos, menus and items like that may appear here.
+footer | Can be used as part of the overall body of the site, or inside an article or section. This will be used at the bottom of each page/article/section, and will make the areas look uniform. Copywrite information or contact information may appear here.
+nav | Is used to contain the navigational blocks for the site.
+article | Groups content that stands alone.
+aside | There are two ways this is used. When inside an article, it contains information related to the article, but not essential to the article. An example would be a quote from the article. When not inside an article, It is content that is related to the entire page. An example would be a list of additoinal posts by a blog author.
+section | These are groupings of information that are not articles, but small chunks of data like related links or contact information. Typically they will have their own header (not an H2) telling what the section is.
+hgroup | Groups other headers (2-6) together. This has mixed reception and is not used by all.
+figure | This is information or an image that is referenced in the main flow of the page. 
+figcaption | The text description of the figure
+div | Even though this is not used as much in HTML 5, it is still used to group content together
+a | This is an anchor, and can be used to make everything in the tag to be an HTML link
+
+We must remember that HTML 5 is new, and may not be usable by older browsers. We should create a CSS that will work with older browsers to ensure their usability with HTML 5.
