@@ -20,6 +20,8 @@ Another part of workflow is the life cycle. When a file is edited, it is then se
 
 You can use _git status_ to see what status your files are in.
 
+git add _< file >_ to set the file up to be committed.
+
 git commit -m 'message' will commit the file with the coding comments found in the 'message' text.
 
 Then to get the file from your local maching to github, you enter the git push  origin master command, and the file will be sent to github.
