@@ -76,3 +76,23 @@ div | Even though this is not used as much in HTML 5, it is still used to group 
 a | This is an anchor, and can be used to make everything in the tag to be an HTML link
 
 We must remember that HTML 5 is new, and may not be usable by older browsers. We should create a CSS that will work with older browsers to ensure their usability with HTML 5.
+
+# Summary of Chapter 8
+This chapter looks at some extra mark up that can be done in HTML. As above, when discussing these tags below, I will be using the key word only and not the tag markers, this is for simplicty as I am not trying to design a page.
+
+Tag | What it does
+--- | ---
+!DOCTYPE | Even though this is not manditory, it is a good idea to include this to let the browser know what type of document the page is. For an HTML 5 page the tag would be !DOCTYPE html
+!-- -- | This is a comment. Rather than haveing an open and a close tag, the comment is encased in the !-- and --
+id | Is used to uniquely identify what the element is. This will allow a CSS file to display it using the code found in a CSS file
+class | This will identify multiple elements and have them appear the same based on what is coded in the CSS file
+_block elements_ | Block elements is self is not a tag, but a classification of tags that group data into a section. An ordered list is an example of a block element. When used, they will start a new block rather than keeping the text on the same line as the previous or following text.
+_inline elements_ | Like block elements, inline elements is not a tag, but a classification of tags that group data together. Rather then seperating into a new block, inline keeps the text on the same line as the previous and following text. An example of this is the img tag.
+div | Groups a block of data together. 
+span | Groups a block of data together, but keeps it on the same line as the previous and following text.
+iframe | This allows one page to house another page on it. An example of this would be when you look at a web site and they have a Google Map inbedded on their page. The Google Map is in an iframe.
+meta | The items in a meta tag live in the head tag, and are not seen by the visitor. This tag gives information about the page to the browser and can help with searches and such.
+
+Not all data types can be seen on a web page, so to show certain data as expected, escape codes are used to display the data. A cent sign cannot be entered in directly so the $ # 162 : is used (no spaces, done here to display the code) to show the actual symbol.
+
+[Back to README](/README.md)
