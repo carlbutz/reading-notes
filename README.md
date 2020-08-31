@@ -51,3 +51,5 @@ var variable = new Pet();
 [Click here to learn about how to clone a github repo](/discussion-03.md)
 
 [Click here to learn about Version Control, Github Setup and more about cloning](/discussion-04.md)
+
+[Click here to learn about HTML Mark Up (Chapters 18, 1, 17 and 8)](/discussion-05.md)
