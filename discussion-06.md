@@ -36,3 +36,5 @@ There are four different ways to set the color:
    - for the color medium aquamarine you would enter hsl(160, 51%, 60%) and if you wanted it to be partially transparent, hsla(160, 51%, 60%, 0.5)
    
 When using color, one must be carful and watch for **contrast**, or how difficult it is to read/see something. So, a light color on a light background-color may be difficult to read.
+
+[Back to README](/README.md)
