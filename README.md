@@ -55,3 +55,4 @@ var variable = new Pet();
 [Click here to learn about HTML Mark Up (Chapters 18, 1, 17 and 8)](/discussion-05.md)
 
 [Click here to learn about CSS and color (Chapters 10, and 11)](/discussion-06.md)
+[Click here to learn about JavaScript](/discussion-07.md)
