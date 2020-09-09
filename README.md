@@ -59,3 +59,5 @@ var variable = new Pet();
 [Click here to learn about JavaScript](/discussion-07.md)
 
 [Click here to learn about JS data types and How a Computer Works](/discussion-7b.md)
+
+[Click here to learn about script writing, operators and functions](/ducission-08.md)
