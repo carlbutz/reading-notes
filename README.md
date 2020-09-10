@@ -61,3 +61,5 @@ var variable = new Pet();
 [Click here to learn about JS data types and How a Computer Works](/discussion-7b.md)
 
 [Click here to learn about script writing, operators and functions](/ducission-08.md)
+
+[Click here to learn about Comparison & Logical Operators and the For and While Loops](/discussion-09.md)
